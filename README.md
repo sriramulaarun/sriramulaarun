@@ -15,7 +15,7 @@ Building intelligent, secure systems — from AI-powered SaaS platforms to voice
 
 ### 🚀 About Me
 
-- 🎓 Final-year **B.Tech Computer Science Engineering** student at Talla Padmavathi College of Engineering, Hyderabad
+- 🎓 Final-year **B.Tech Computer Science Engineering** student at Talla Padmavathi College of Engineering, Kazipet.
 - 💼 Currently interning at **Codec Technologies**, building AI-driven backend systems
 - 🛠️ Actively seeking roles in **Full Stack Development, Python/AI-ML Engineering, and Cybersecurity**
 - 🏆 Top-percentile ranked on **TryHackMe**, active on **HackTheBox**
